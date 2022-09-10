@@ -347,7 +347,7 @@ tr {
     background-color: transparent;
     border: transparent;
     opacity: 0;
-    animation: fadeInUp 100ms ease 1.3s forwards;
+    animation: fadeInUp 100ms ease 0.1s forwards;
   }
   .bar {
     height: 4px;
